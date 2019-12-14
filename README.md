@@ -1,4 +1,4 @@
 # Bin-Bot
 A simple discord.js bot
 
-if you use this project you must give full credit to Syncro#6784 and Hexabyte#3169
+This was made back in 2018 so you probably shouldn't even attempt to use this, it has to be the most outdated thing i've worked on since fuck knows.
