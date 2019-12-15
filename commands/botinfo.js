@@ -15,7 +15,7 @@ module.exports = async(client, message, args) => {
     .addField("🔢 Unique Users", client.users.size, true)
     .addField(`Uptime`, `${moment.duration(client.uptime).humanize()}`, true)
     .addField("Bot Version",`v${package.version}`)
-    .addField("Created By","Syncro#6784 (Ash) and Hexabyte#3169 (Hayden)")
+    .addField("Created By","some retards")
     .addField("Edited by", "your name here")
     message.channel.send(embed);
 }
